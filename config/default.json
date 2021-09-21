@@ -1,0 +1,5 @@
+{
+  "port": 8000,
+  "jwtSecret": "egunka",
+  "mongoUri": "mongodb+srv://chetkiy777:Giv8070808@cluster0.vwrr4.mongodb.net/myData?retryWrites=true&w=majority"
+}
